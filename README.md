@@ -3,6 +3,7 @@ useful links : \
 https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/ \
 https://www.callicoder.com/docker-golang-image-container-example/ \
 https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials \
+https://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/ \
 \
 useful commands : 
 
